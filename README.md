@@ -10,4 +10,4 @@ Die verschiedenen Schritte, die dafür nötig sind, werden hier schematisch darg
 
 Diesen Schritten entsprechend ist die Implementierung in Jupyter Notebook in *Aufnahme*, *Erkennen der Tonhöhe* (Fourier-Transformation und Erkennen der Töne) und *Akkorderkennung* gegliedert. Zusätzlich ist der Abschnitt Synthetisierung Teil der Implementierung, worin einzelne Töne mit bestimmter Frequenz oder Akkorde erzeugt und abgespielt werden können.
 
-Die einzelnen Schritte sind in Jupyter Notebook mit Texterklärungen versehen, wodurch der jeweilige Schritt nachvollzogen werden kann. Damit das Hauptnotebook übersichtlich bleibt, sind einige Methoden und das Verzeichnis der Akkorde in andere Notebooks ausgelagert. 
+Die einzelnen Schritte sind in Jupyter Notebook mit Texterklärungen versehen, wodurch der jeweilige Schritt nachvollzogen werden kann. Damit das Hauptnotebook "VWA - Jupyter Notebook.ipynb" übersichtlich bleibt, sind einige Methoden und das Verzeichnis der Akkorde in andere Notebooks ausgelagert. 
